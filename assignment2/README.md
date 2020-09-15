@@ -3,7 +3,7 @@
 We'll build NN, and learn to use [PyTorch](https://pytorch.org/).
 
 Set up:
-- Start `download_data.sh`to lad the data.
+- Start `download_data.sh`to load the data.
 - Load all libraries by `pip install -r requirements.txt`.
 
 ## Part 1
